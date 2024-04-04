@@ -1,0 +1,2 @@
+# spring sdk starter
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.submerge.subapiclientsdk.config.SubApiClientConfig

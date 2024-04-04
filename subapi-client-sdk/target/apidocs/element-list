@@ -1,0 +1,12 @@
+com.submerge.subapiclientsdk
+com.submerge.subapiclientsdk.client
+com.submerge.subapiclientsdk.config
+com.submerge.subapiclientsdk.exception
+com.submerge.subapiclientsdk.model.entity
+com.submerge.subapiclientsdk.model.enums
+com.submerge.subapiclientsdk.model.params
+com.submerge.subapiclientsdk.model.request
+com.submerge.subapiclientsdk.model.response
+com.submerge.subapiclientsdk.service
+com.submerge.subapiclientsdk.service.impl
+com.submerge.subapiclientsdk.utils

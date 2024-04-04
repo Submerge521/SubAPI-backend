@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "sub.api.client",
+      "type": "com.submerge.subapiclientsdk.config.SubApiClientConfig",
+      "sourceType": "com.submerge.subapiclientsdk.config.SubApiClientConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "sub.api.client.access-key",
+      "type": "java.lang.String",
+      "description": "访问密钥",
+      "sourceType": "com.submerge.subapiclientsdk.config.SubApiClientConfig"
+    },
+    {
+      "name": "sub.api.client.host",
+      "type": "java.lang.String",
+      "description": "网关",
+      "sourceType": "com.submerge.subapiclientsdk.config.SubApiClientConfig"
+    },
+    {
+      "name": "sub.api.client.secret-key",
+      "type": "java.lang.String",
+      "description": "秘密密钥",
+      "sourceType": "com.submerge.subapiclientsdk.config.SubApiClientConfig"
+    }
+  ],
+  "hints": []
+}

@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11fa475b-719c-4a0e-9475-8bd0b57ca609" name="Changes" comment="refactor">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1a6258c6-dfad-42f8-bb0b-d957d8866746.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1a6258c6-dfad-42f8-bb0b-d957d8866746/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1a6258c6-dfad-42f8-bb0b-d957d8866746/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1a6258c6-dfad-42f8-bb0b-d957d8866746/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1a6258c6-dfad-42f8-bb0b-d957d8866746/storage_v2/_src_/schema/subapi.2hPcyg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1a6258c6-dfad-42f8-bb0b-d957d8866746/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SubAPI-common" beforeDir="false" afterPath="$PROJECT_DIR$/SubAPI-common" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SubAPI-gateway" beforeDir="false" afterPath="$PROJECT_DIR$/SubAPI-gateway" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SubAPI-interface" beforeDir="false" afterPath="$PROJECT_DIR$/SubAPI-interface" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/subapi-client-sdk" beforeDir="false" afterPath="$PROJECT_DIR$/subapi-client-sdk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -335,15 +323,7 @@
       <workItem from="1712194027047" duration="3029000" />
       <workItem from="1712199130470" duration="1551000" />
       <workItem from="1712200858704" duration="8713000" />
-      <workItem from="1712238184242" duration="968000" />
-    </task>
-    <task id="LOCAL-00028" summary="add 绑定邮箱及注册&#10;update 签到&#10;update 接口信息">
-      <option name="closed" value="true" />
-      <created>1712071342025</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1712071342025</updated>
+      <workItem from="1712238184242" duration="1310000" />
     </task>
     <task id="LOCAL-00029" summary="add 绑定邮箱及注册&#10;update 签到&#10;update 接口信息">
       <option name="closed" value="true" />
@@ -729,7 +709,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712236194308</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="refactor">
+      <option name="closed" value="true" />
+      <created>1712239474604</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239474604</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

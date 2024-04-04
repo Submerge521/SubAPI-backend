@@ -1,0 +1,138 @@
+@options
+@packages
+@argfile
+-classpath
+'D:/BCsoftware/Maven/RepMaven/org/springframework/boot/spring-boot-starter/2.7.5/spring-boot-starter-2.7.5.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/boot/spring-boot/2.7.5/spring-boot-2.7.5.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/spring-context/5.3.23/spring-context-5.3.23.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/boot/spring-boot-autoconfigure/2.7.5/spring-boot-autoconfigure-2.7.5.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/boot/spring-boot-starter-logging/2.7.5/spring-boot-starter-logging-2.7.5.jar;D:/BCsoftware/Maven/RepMaven/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar;D:/BCsoftware/Maven/RepMaven/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar;D:/BCsoftware/Maven/RepMaven/org/apache/logging/log4j/log4j-to-slf4j/2.17.2/log4j-to-slf4j-2.17.2.jar;D:/BCsoftware/Maven/RepMaven/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar;D:/BCsoftware/Maven/RepMaven/org/slf4j/jul-to-slf4j/1.7.36/jul-to-slf4j-1.7.36.jar;D:/BCsoftware/Maven/RepMaven/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/spring-core/5.3.23/spring-core-5.3.23.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23.jar;D:/BCsoftware/Maven/RepMaven/org/yaml/snakeyaml/1.30/snakeyaml-1.30.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/boot/spring-boot-configuration-processor/2.7.5/spring-boot-configuration-processor-2.7.5.jar;D:/BCsoftware/Maven/RepMaven/com/fasterxml/jackson/core/jackson-annotations/2.16.1/jackson-annotations-2.16.1.jar;D:/BCsoftware/Maven/RepMaven/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar;D:/BCsoftware/Maven/RepMaven/com/submerge/subapi-common/0.0.1/subapi-common-0.0.1.jar;D:/BCsoftware/Maven/RepMaven/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.2.2/mybatis-spring-boot-starter-2.2.2.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/boot/spring-boot-starter-jdbc/2.7.5/spring-boot-starter-jdbc-2.7.5.jar;D:/BCsoftware/Maven/RepMaven/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/spring-jdbc/5.3.23/spring-jdbc-5.3.23.jar;D:/BCsoftware/Maven/RepMaven/org/springframework/spring-tx/5.3.23/spring-tx-5.3.23.jar;D:/BCsoftware/Maven/RepMaven/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.2.2/mybatis-spring-boot-autoconfigure-2.2.2.jar;D:/BCsoftware/Maven/RepMaven/org/mybatis/mybatis/3.5.9/mybatis-3.5.9.jar;D:/BCsoftware/Maven/RepMaven/org/mybatis/mybatis-spring/2.0.7/mybatis-spring-2.0.7.jar;D:/BCsoftware/Maven/RepMaven/com/baomidou/mybatis-plus-boot-starter/3.5.1/mybatis-plus-boot-starter-3.5.1.jar;D:/BCsoftware/Maven/RepMaven/com/baomidou/mybatis-plus/3.5.1/mybatis-plus-3.5.1.jar;D:/BCsoftware/Maven/RepMaven/com/baomidou/mybatis-plus-extension/3.5.1/mybatis-plus-extension-3.5.1.jar;D:/BCsoftware/Maven/RepMaven/com/baomidou/mybatis-plus-core/3.5.1/mybatis-plus-core-3.5.1.jar;D:/BCsoftware/Maven/RepMaven/com/baomidou/mybatis-plus-annotation/3.5.1/mybatis-plus-annotation-3.5.1.jar;D:/BCsoftware/Maven/RepMaven/com/github/jsqlparser/jsqlparser/4.3/jsqlparser-4.3.jar;D:/BCsoftware/Maven/RepMaven/com/google/code/gson/gson/2.9.1/gson-2.9.1.jar;D:/BCsoftware/Maven/RepMaven/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;D:/BCsoftware/Maven/RepMaven/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar;D:/BCsoftware/Maven/RepMaven/cn/hutool/hutool-all/5.8.26/hutool-all-5.8.26.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java;E:/JavaProject/Submerg-API/subapi-client-sdk/target/generated-sources/annotations'
+-Xdoclint:none
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/JavaProject/Submerg-API/subapi-client-sdk/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'subapi-client-sdk 0.0.2 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'E:/JavaProject/Submerg-API/subapi-client-sdk/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'subapi-client-sdk 0.0.2 API'
+com.submerge.subapiclientsdk.client
+com.submerge.subapiclientsdk.config
+com.submerge.subapiclientsdk.exception
+com.submerge.subapiclientsdk.model.entity
+com.submerge.subapiclientsdk.model.enums
+com.submerge.subapiclientsdk.model.params
+com.submerge.subapiclientsdk.model.request
+com.submerge.subapiclientsdk.model.response
+com.submerge.subapiclientsdk.service
+com.submerge.subapiclientsdk.service.impl
+com.submerge.subapiclientsdk
+com.submerge.subapiclientsdk.utils
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/client/SubApiClient.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/config/SubApiClientConfig.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/exception/ApiException.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/exception/ErrorCode.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/exception/ErrorResponse.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/entity/User.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/enums/RequestMethodEnum.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/params/HoroscopeParams.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/params/IpInfoParams.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/params/LoveParams.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/params/NameParams.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/params/PoisonousChickenSoupParams.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/params/RandomWallpaperParams.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/params/WeatherParams.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/request/BaseRequest.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/request/CurrencyRequest.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/request/HoroscopeRequest.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/request/IpInfoRequest.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/request/LoveRequest.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/request/NameRequest.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/request/PoisonousChickenSoupRequest.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/request/RandomWallpaperRequest.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/request/WeatherRequest.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/response/LoveResponse.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/response/NameResponse.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/response/PoisonousChickenSoupResponse.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/response/RandomWallpaperResponse.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/model/response/ResultResponse.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/service/ApiService.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/service/BaseService.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/service/impl/ApiServiceImpl.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/SubApiClientConfig.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/SubapiClientSdkApplication.java'
+'E:/JavaProject/Submerg-API/subapi-client-sdk/src/main/java/com/submerge/subapiclientsdk/utils/GenSignUtils.java'
+D:\BCsoftware\Maven\RepMaven\org\springframework\boot\spring-boot-starter\2.7.5\spring-boot-starter-2.7.5.jar = 1710771537956
+D:\BCsoftware\Maven\RepMaven\org\springframework\boot\spring-boot\2.7.5\spring-boot-2.7.5.jar = 1710771538539
+D:\BCsoftware\Maven\RepMaven\org\springframework\spring-context\5.3.23\spring-context-5.3.23.jar = 1710771538355
+D:\BCsoftware\Maven\RepMaven\org\springframework\spring-aop\5.3.23\spring-aop-5.3.23.jar = 1710771538770
+D:\BCsoftware\Maven\RepMaven\org\springframework\spring-beans\5.3.23\spring-beans-5.3.23.jar = 1710771538752
+D:\BCsoftware\Maven\RepMaven\org\springframework\spring-expression\5.3.23\spring-expression-5.3.23.jar = 1710771537693
+D:\BCsoftware\Maven\RepMaven\org\springframework\boot\spring-boot-autoconfigure\2.7.5\spring-boot-autoconfigure-2.7.5.jar = 1710771537920
+D:\BCsoftware\Maven\RepMaven\org\springframework\boot\spring-boot-starter-logging\2.7.5\spring-boot-starter-logging-2.7.5.jar = 1710771538773
+D:\BCsoftware\Maven\RepMaven\ch\qos\logback\logback-classic\1.2.11\logback-classic-1.2.11.jar = 1710771508936
+D:\BCsoftware\Maven\RepMaven\ch\qos\logback\logback-core\1.2.11\logback-core-1.2.11.jar = 1710771508494
+D:\BCsoftware\Maven\RepMaven\org\apache\logging\log4j\log4j-to-slf4j\2.17.2\log4j-to-slf4j-2.17.2.jar = 1710771076805
+D:\BCsoftware\Maven\RepMaven\org\apache\logging\log4j\log4j-api\2.17.2\log4j-api-2.17.2.jar = 1710771077655
+D:\BCsoftware\Maven\RepMaven\org\slf4j\jul-to-slf4j\1.7.36\jul-to-slf4j-1.7.36.jar = 1710771077403
+D:\BCsoftware\Maven\RepMaven\jakarta\annotation\jakarta.annotation-api\1.3.5\jakarta.annotation-api-1.3.5.jar = 1710771077682
+D:\BCsoftware\Maven\RepMaven\org\springframework\spring-core\5.3.23\spring-core-5.3.23.jar = 1710771538029
+D:\BCsoftware\Maven\RepMaven\org\springframework\spring-jcl\5.3.23\spring-jcl-5.3.23.jar = 1710771538266
+D:\BCsoftware\Maven\RepMaven\org\yaml\snakeyaml\1.30\snakeyaml-1.30.jar = 1710771077459
+D:\BCsoftware\Maven\RepMaven\org\springframework\boot\spring-boot-configuration-processor\2.7.5\spring-boot-configuration-processor-2.7.5.jar = 1710771538903
+D:\BCsoftware\Maven\RepMaven\com\fasterxml\jackson\core\jackson-annotations\2.16.1\jackson-annotations-2.16.1.jar = 1711898169171
+D:\BCsoftware\Maven\RepMaven\org\projectlombok\lombok\1.18.24\lombok-1.18.24.jar = 1710771507885
+D:\BCsoftware\Maven\RepMaven\com\submerge\subapi-common\0.0.1\subapi-common-0.0.1.jar = 1711874545940
+D:\BCsoftware\Maven\RepMaven\org\mybatis\spring\boot\mybatis-spring-boot-starter\2.2.2\mybatis-spring-boot-starter-2.2.2.jar = 1710771539450
+D:\BCsoftware\Maven\RepMaven\org\springframework\boot\spring-boot-starter-jdbc\2.7.5\spring-boot-starter-jdbc-2.7.5.jar = 1710771540105
+D:\BCsoftware\Maven\RepMaven\com\zaxxer\HikariCP\4.0.3\HikariCP-4.0.3.jar = 1710771540638
+D:\BCsoftware\Maven\RepMaven\org\springframework\spring-jdbc\5.3.23\spring-jdbc-5.3.23.jar = 1710771540103
+D:\BCsoftware\Maven\RepMaven\org\springframework\spring-tx\5.3.23\spring-tx-5.3.23.jar = 1710771539094
+D:\BCsoftware\Maven\RepMaven\org\mybatis\spring\boot\mybatis-spring-boot-autoconfigure\2.2.2\mybatis-spring-boot-autoconfigure-2.2.2.jar = 1710771540512
+D:\BCsoftware\Maven\RepMaven\org\mybatis\mybatis\3.5.9\mybatis-3.5.9.jar = 1710771538220
+D:\BCsoftware\Maven\RepMaven\org\mybatis\mybatis-spring\2.0.7\mybatis-spring-2.0.7.jar = 1710771538449
+D:\BCsoftware\Maven\RepMaven\com\baomidou\mybatis-plus-boot-starter\3.5.1\mybatis-plus-boot-starter-3.5.1.jar = 1710771538757
+D:\BCsoftware\Maven\RepMaven\com\baomidou\mybatis-plus\3.5.1\mybatis-plus-3.5.1.jar = 1710771538976
+D:\BCsoftware\Maven\RepMaven\com\baomidou\mybatis-plus-extension\3.5.1\mybatis-plus-extension-3.5.1.jar = 1710771539309
+D:\BCsoftware\Maven\RepMaven\com\baomidou\mybatis-plus-core\3.5.1\mybatis-plus-core-3.5.1.jar = 1710771539743
+D:\BCsoftware\Maven\RepMaven\com\baomidou\mybatis-plus-annotation\3.5.1\mybatis-plus-annotation-3.5.1.jar = 1710771540042
+D:\BCsoftware\Maven\RepMaven\com\github\jsqlparser\jsqlparser\4.3\jsqlparser-4.3.jar = 1710771540374
+D:\BCsoftware\Maven\RepMaven\com\google\code\gson\gson\2.9.1\gson-2.9.1.jar = 1711011759970
+D:\BCsoftware\Maven\RepMaven\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar = 1710771540382
+D:\BCsoftware\Maven\RepMaven\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar = 1710771076542
+D:\BCsoftware\Maven\RepMaven\cn\hutool\hutool-all\5.8.26\hutool-all-5.8.26.jar = 1710808459623
+E:\JavaProject\Submerg-API\subapi-client-sdk\src\main\java = 1710835798572
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\generated-sources\annotations = 1711899510228
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\allclasses-index.html = 1711899578075
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\allclasses.html = 1711899578082
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\allpackages-index.html = 1711899578077
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\constant-values.html = 1711899577919
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\deprecated-list.html = 1711899578080
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\element-list = 1711899577852
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\help-doc.html = 1711899578089
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\index-all.html = 1711899578070
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\index.html = 1711899578085
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\member-search-index.js = 1711899578067
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\member-search-index.zip = 1711899578068
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\overview-summary.html = 1711899578087
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\overview-tree.html = 1711899578046
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\package-search-index.js = 1711899578062
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\package-search-index.zip = 1711899578064
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\script.js = 1711899578093
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\search.js = 1711899578094
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\serialized-form.html = 1711899577927
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\stylesheet.css = 1711899578091
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\type-search-index.js = 1711899578065
+E:\JavaProject\Submerg-API\subapi-client-sdk\target\apidocs\type-search-index.zip = 1711899578066
