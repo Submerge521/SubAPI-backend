@@ -69,7 +69,7 @@
         </dependency>
         <dependency>
             <groupId>com.submerge</groupId>
-            <artifactId>subapi-client-sdk</artifactId>
+            <artifactId>SubAPI-SDK</artifactId>
             <version>0.0.2</version>
         </dependency>
 
