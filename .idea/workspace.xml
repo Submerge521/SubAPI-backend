@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11fa475b-719c-4a0e-9475-8bd0b57ca609" name="Changes" comment="refactor">
-      <change beforePath="$PROJECT_DIR$/SubAPI-common" beforeDir="false" afterPath="$PROJECT_DIR$/SubAPI-common" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SubAPI-gateway" beforeDir="false" afterPath="$PROJECT_DIR$/SubAPI-gateway" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SubAPI-interface" beforeDir="false" afterPath="$PROJECT_DIR$/SubAPI-interface" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subapi-client-sdk" beforeDir="false" afterPath="$PROJECT_DIR$/subapi-client-sdk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +117,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "jdk.selected.JAVA_MODULE": "11",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/JavaProject/Submerg-API/subapi-client-sdk",
+    "last_opened_file_path": "E:/JavaProject/Submerg-API/SubAPI-backend/SubAPI-interface",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -146,11 +144,11 @@
       <recent name="com.submerge.subapi.model.vo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\Submerg-API\SubAPI-backend\SubAPI-interface" />
+      <recent name="E:\JavaProject\Submerg-API\SubAPI-backend\SubAPI-gateway" />
+      <recent name="E:\JavaProject\Submerg-API\SubAPI-backend\SubAPI-common" />
+      <recent name="E:\JavaProject\Submerg-API\SubAPI-backend\subapi-client-sdk" />
       <recent name="E:\JavaProject\Submerg-API\SubAPI-backend\src\main\java\com\submerge\subapi\model\dto" />
-      <recent name="E:\JavaProject\Submerg-API\SubAPI-backend\src\main\resources" />
-      <recent name="E:\JavaProject\Submerg-API\SubAPI-backend\src\main\java\com\submerge\subapi\model" />
-      <recent name="E:\JavaProject\Submerg-API\SubAPI-backend\src\main\java\com\submerge\subapi" />
-      <recent name="E:\JavaProject\Submerg-API\SubAPI-backend\src\main\java\com\submerge\subapi\model\dto\interfaceinfo" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -323,23 +321,7 @@
       <workItem from="1712194027047" duration="3029000" />
       <workItem from="1712199130470" duration="1551000" />
       <workItem from="1712200858704" duration="8713000" />
-      <workItem from="1712238184242" duration="1310000" />
-    </task>
-    <task id="LOCAL-00029" summary="add 绑定邮箱及注册&#10;update 签到&#10;update 接口信息">
-      <option name="closed" value="true" />
-      <created>1712071494856</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1712071494856</updated>
-    </task>
-    <task id="LOCAL-00030" summary="add 绑定邮箱及注册&#10;update 签到&#10;update 接口信息">
-      <option name="closed" value="true" />
-      <created>1712071586417</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1712071586417</updated>
+      <workItem from="1712238184242" duration="1944000" />
     </task>
     <task id="LOCAL-00031" summary="add 绑定邮箱及注册&#10;update 签到&#10;update 接口信息">
       <option name="closed" value="true" />
@@ -717,7 +699,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712239474604</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="refactor">
+      <option name="closed" value="true" />
+      <created>1712240042619</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1712240042619</updated>
+    </task>
+    <task id="LOCAL-00079" summary="refactor">
+      <option name="closed" value="true" />
+      <created>1712240111840</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1712240111840</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
